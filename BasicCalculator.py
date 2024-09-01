@@ -1,5 +1,5 @@
 def main():
-    print("Welcome to Leo's Calculator")
+    print("Welcome to [Your Name]'s Calculator")
     
     # Get the first number
     num1 = float(input("Please enter the first number: "))
@@ -32,6 +32,7 @@ def main():
     
     # Print the result
     print(result)
+    print("Made by @SunsetRiley5")
 
 if __name__ == "__main__":
     main()
