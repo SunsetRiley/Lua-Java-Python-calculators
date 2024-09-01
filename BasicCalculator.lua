@@ -31,3 +31,4 @@ if operator == "+" then
         return
 end
 print(num1 , operator, num2, "=", result)
+print("Made by @SunsetRiley5")
