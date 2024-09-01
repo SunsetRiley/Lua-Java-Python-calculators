@@ -45,5 +45,6 @@ public class BasicCalculator {
             break;
         }
         System.out.println(result);
+        System.out.println("Made by @SunsetRiley5");
     }
 }
